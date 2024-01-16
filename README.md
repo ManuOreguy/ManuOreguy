@@ -7,8 +7,7 @@ Frontend Developer
 * 🌍  I am currently based in Argentina, Buenos Aires
 * ✉️  You can contact me at [manuoreguy@gmail.com](mailto:manuoreguy@gmail.com)
 * 🔭 At the moment i'm working as a frontend developer using React.js, Typescript and Redux Toolkit.
-* 👯 I am looking to expand my programming experience by collaborating in teams to develop and maintain quality web and mobile applications.
-* 🤝 I'm open to colaborate on exciting projects as a frontend developer.
+* 🤝 I'm open to colaborate on exciting web and mobile projects as a frontend developer.
 
   
 ### Skills
