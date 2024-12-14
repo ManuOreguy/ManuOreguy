@@ -6,8 +6,8 @@ Frontend Developer
 
 * 🌍  I'm based in Buenos Aires, Argentina.
 * ✉️  You can contact me at [manuoreguy@gmail.com](mailto:manuoreguy@gmail.com)
-* 🖥️  At the moment i'm working as a frontend developer using React.js, Typescript and Redux Toolkit.
-* 🧠  I'm learning Tailwind CSS and Bootstrap.
+* 🖥️  At the moment i'm working as a frontend developer using React.js, React Native and Typescript.
+* 🧠  I'm learning Tailwind CSS.
 * 🤝  I'm open to colaborate on exciting web and mobile projects as a frontend developer.
 
 
